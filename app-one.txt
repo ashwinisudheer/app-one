@@ -1,0 +1,19 @@
+App One
+
+
+Purpose
+This repository is used for:
+- Testing Port GitHub integration
+- Hosting sample application code or configuration
+- Demonstrating basic GitHub repository setup
+
+Contents
+Currently, the repository only contains this README file.  
+Additional files will be added later during the assessment.
+
+Tech Stack (future)
+- Language: TBD
+- Framework: TBD
+- Tools: GitHub Actions, Docker, Kubernetes (planned)
+
+
